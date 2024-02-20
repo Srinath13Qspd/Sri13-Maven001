@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Chrome browser has been launched]]>
+    </line>
+    <line>
+      <![CDATA[Execution of test case is started]]>
+    </line>
+    <line>
+      <![CDATA[Application has been launched]]>
+    </line>
+    <line>
+      <![CDATA[Login page has been opened]]>
+    </line>
+    <line>
+      <![CDATA[Login process is sucessfull and Homepage has been displayed ]]>
+    </line>
+    <line>
+      <![CDATA[Execution of test case is started]]>
+    </line>
+    <line>
+      <![CDATA[Execution of test case is success]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully loggedOut]]>
+    </line>
+    <line>
+      <![CDATA[Login page has been opened]]>
+    </line>
+    <line>
+      <![CDATA[Login process is sucessfull and Homepage has been displayed ]]>
+    </line>
+    <line>
+      <![CDATA[Execution of test case is started]]>
+    </line>
+    <line>
+      <![CDATA[Execution of test case is success]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully loggedOut]]>
+    </line>
+    <line>
+      <![CDATA[Login page has been opened]]>
+    </line>
+    <line>
+      <![CDATA[Login process is sucessfull and Homepage has been displayed ]]>
+    </line>
+    <line>
+      <![CDATA[Execution of test case is started]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully subscribion has been done and a verification Email has been Sent]]>
+    </line>
+    <line>
+      <![CDATA[Execution of test case is success]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully loggedOut]]>
+    </line>
+    <line>
+      <![CDATA[Execution of test case is finished]]>
+    </line>
+    <line>
+      <![CDATA[Browser has been quitted]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-02-18T16:49:36 IST" name="Suite" finished-at="2024-02-18T16:50:09 IST" duration-ms="33108">
+    <groups>
+    </groups>
+    <test started-at="2024-02-18T16:49:36 IST" name="Test" finished-at="2024-02-18T16:50:09 IST" duration-ms="33108">
+      <class name="testScripts001.Test_TC004_Communitypoll_test">
+        <test-method is-config="true" signature="loginProcess()[pri:0, instance:testScripts001.Test_TC004_Communitypoll_test@639c2c1d]" started-at="2024-02-18T16:50:01 IST" name="loginProcess" finished-at="2024-02-18T16:50:04 IST" duration-ms="2116" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login page has been opened]]>
+            </line>
+            <line>
+              <![CDATA[Login process is sucessfull and Homepage has been displayed ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginProcess -->
+        <test-method signature="cummunityPollVoting()[pri:0, instance:testScripts001.Test_TC004_Communitypoll_test@639c2c1d]" started-at="2024-02-18T16:50:04 IST" name="cummunityPollVoting" finished-at="2024-02-18T16:50:04 IST" duration-ms="97" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Execution of test case is started]]>
+            </line>
+            <line>
+              <![CDATA[Execution of test case is success]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cummunityPollVoting -->
+        <test-method is-config="true" signature="logoutProcess()[pri:0, instance:testScripts001.Test_TC004_Communitypoll_test@639c2c1d]" started-at="2024-02-18T16:50:04 IST" name="logoutProcess" finished-at="2024-02-18T16:50:05 IST" duration-ms="1597" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Sucessfully loggedOut]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logoutProcess -->
+      </class> <!-- testScripts001.Test_TC004_Communitypoll_test -->
+      <class name="testScripts001.Test_TC003_NewsLetter_test">
+        <test-method is-config="true" signature="loginProcess()[pri:0, instance:testScripts001.Test_TC003_NewsLetter_test@5fe94a96]" started-at="2024-02-18T16:50:05 IST" name="loginProcess" finished-at="2024-02-18T16:50:07 IST" duration-ms="2065" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login page has been opened]]>
+            </line>
+            <line>
+              <![CDATA[Login process is sucessfull and Homepage has been displayed ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginProcess -->
+        <test-method signature="m1()[pri:0, instance:testScripts001.Test_TC003_NewsLetter_test@5fe94a96]" started-at="2024-02-18T16:50:07 IST" name="m1" finished-at="2024-02-18T16:50:08 IST" duration-ms="433" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Execution of test case is started]]>
+            </line>
+            <line>
+              <![CDATA[Sucessfully subscribion has been done and a verification Email has been Sent]]>
+            </line>
+            <line>
+              <![CDATA[Execution of test case is success]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method is-config="true" signature="logoutProcess()[pri:0, instance:testScripts001.Test_TC003_NewsLetter_test@5fe94a96]" started-at="2024-02-18T16:50:08 IST" name="logoutProcess" finished-at="2024-02-18T16:50:09 IST" duration-ms="1688" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Sucessfully loggedOut]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logoutProcess -->
+      </class> <!-- testScripts001.Test_TC003_NewsLetter_test -->
+      <class name="testScripts001.Test_TC002_AddingProductToCart_test">
+        <test-method is-config="true" signature="launchingBrowser(java.lang.String)[pri:0, instance:testScripts001.Test_TC002_AddingProductToCart_test@65fb9ffc]" started-at="2024-02-18T16:49:33 IST" name="launchingBrowser" finished-at="2024-02-18T16:49:36 IST" duration-ms="3186" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome browser has been launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchingBrowser -->
+        <test-method is-config="true" signature="launchingApplication()[pri:0, instance:testScripts001.Test_TC002_AddingProductToCart_test@65fb9ffc]" started-at="2024-02-18T16:49:36 IST" name="launchingApplication" finished-at="2024-02-18T16:49:44 IST" duration-ms="8117" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application has been launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchingApplication -->
+        <test-method is-config="true" signature="loginProcess()[pri:0, instance:testScripts001.Test_TC002_AddingProductToCart_test@65fb9ffc]" started-at="2024-02-18T16:49:45 IST" name="loginProcess" finished-at="2024-02-18T16:49:48 IST" duration-ms="3809" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login page has been opened]]>
+            </line>
+            <line>
+              <![CDATA[Login process is sucessfull and Homepage has been displayed ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginProcess -->
+        <test-method signature="addingProdToCart()[pri:0, instance:testScripts001.Test_TC002_AddingProductToCart_test@65fb9ffc]" started-at="2024-02-18T16:49:48 IST" name="addingProdToCart" finished-at="2024-02-18T16:50:00 IST" duration-ms="11383" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Execution of test case is started]]>
+            </line>
+            <line>
+              <![CDATA[Execution of test case is success]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addingProdToCart -->
+        <test-method is-config="true" signature="logoutProcess()[pri:0, instance:testScripts001.Test_TC002_AddingProductToCart_test@65fb9ffc]" started-at="2024-02-18T16:50:00 IST" name="logoutProcess" finished-at="2024-02-18T16:50:01 IST" duration-ms="1749" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Sucessfully loggedOut]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logoutProcess -->
+        <test-method is-config="true" signature="quittingBrowser()[pri:0, instance:testScripts001.Test_TC002_AddingProductToCart_test@65fb9ffc]" started-at="2024-02-18T16:50:10 IST" name="quittingBrowser" finished-at="2024-02-18T16:50:10 IST" duration-ms="262" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser has been quitted]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- quittingBrowser -->
+      </class> <!-- testScripts001.Test_TC002_AddingProductToCart_test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
